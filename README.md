@@ -38,3 +38,8 @@ After cloing the app from repo you must install yarn :
 
 Then you can run the applicaiont by pass : 
 ### `yarn start` or   `npm start` or  `expo start` 
+
+
+screenshote demo :
+![quote](https://user-images.githubusercontent.com/64614781/144428452-29851a1f-5b4a-440d-919b-11c7276f20d9.png)
+
