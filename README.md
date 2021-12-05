@@ -40,6 +40,10 @@ Then you can run the applicaiont by pass :
 ### `yarn start` or   `npm start` or  `expo start` 
 
 
-screenshote demo :
+version1 demo :
 ![quote](https://user-images.githubusercontent.com/64614781/144428452-29851a1f-5b4a-440d-919b-11c7276f20d9.png)
+
+version2 demo :
+![version2](https://user-images.githubusercontent.com/64614781/144762036-986b6d1c-c969-4a1f-adbd-1285fce60df3.jpeg)
+
 
